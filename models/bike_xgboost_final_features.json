@@ -1,0 +1,17 @@
+[
+  "holiday",
+  "workingday",
+  "is_weekend",
+  "weather_mist",
+  "weather_rain",
+  "atemp",
+  "hum",
+  "windspeed",
+  "month_sin",
+  "month_cos",
+  "hour_sin",
+  "hour_cos",
+  "users_lag_1",
+  "users_lag_24",
+  "users_lag_168"
+]
